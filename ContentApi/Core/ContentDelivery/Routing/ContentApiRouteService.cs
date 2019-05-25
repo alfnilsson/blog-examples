@@ -1,6 +1,6 @@
 using System.Web;
 
-namespace Toders.ContentApi.Site.ContentDelivery
+namespace Toders.ContentApi.Core.ContentDelivery.Routing
 {
     public class ContentApiRouteService : EPiServer.ContentApi.Routing.ContentApiRouteService
     {
